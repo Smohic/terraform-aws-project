@@ -1,2 +1,2 @@
 # terraform-aws-project
-Installing nginx using terraform on AWS.
+Installing nginx on ubuntu using terraform for AWS.
